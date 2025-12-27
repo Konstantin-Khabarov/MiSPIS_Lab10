@@ -15,20 +15,6 @@
 - `\src\` - исходный код Java
 - `Скриншот выполнения.png` - скриншот выполнения
 
-## UML Диаграммы
-
-### 1. Use Case Diagram
-![Use Case Diagram](UnivSistem\diagrams/Use Case.png)
-
-### 2. Class Diagram
-![Class Diagram](UnivSistem\diagrams/Class Diagram.png)
-
-### 3. Sequence Diagram (пример)
-![Sequence Diagram](UnivSistem\diagrams/Sequence Diagram.png)
-
-## Связь диаграмм и кода
-Все поведенческие диаграммы соответствуют прецедентам Use Case. Объекты на диаграммах последовательностей являются экземплярами классов с Class Diagram.
-
 ## Запуск программы
 Клонируйте репозиторий:
    ```bash
