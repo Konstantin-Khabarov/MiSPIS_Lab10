@@ -16,7 +16,7 @@ public class Main {
         System.out.println("Факультет: " + csDept.getName());
         System.out.println("Декан факультета: " + head.getName());
         
-        System.out.println("\n--- Дополнительно ---");
+        System.out.println("--- Дополнительно ---");
 
         if (head.getHeadsDepartment() != null) {
             System.out.println(head.getName() + " является деканом факультета: " +
