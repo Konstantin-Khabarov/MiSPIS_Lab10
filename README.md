@@ -32,4 +32,4 @@
 ## Запуск программы
 Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/Konstantin-Khabarov/MiSPIS_Lab_10.git
+   git clone https://github.com/Konstantin-Khabarov/MiSPIS_Lab10.git
